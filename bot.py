@@ -48,7 +48,7 @@ class Bot(Client):
         self.USER, self.USER_ID = await User().start()
         await self.USER.send_message(
             chat_id=usr_bot_me.username,
-            text="😬🤒🤒"
+            text="😅NDA DOH BOT WORKING lle allengil @sunaif_adkar pm vaa"
         )
 
     async def stop(self, *args):
