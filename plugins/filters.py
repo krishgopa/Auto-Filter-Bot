@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @sunaif_adkar
 
 
 import re
@@ -159,7 +159,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("HELP", callback_data="help_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/TroJanzHEX")]
+                [InlineKeyboardButton("⭕️ JOIN OUR CHANNEL ⭕️", url="https://t.me/Movie_addictzs")]
             ])
 
             await query.message.edit_text(
@@ -174,7 +174,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="start_data"),
                     InlineKeyboardButton("ABOUT", callback_data="about_data")],
-                [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/TroJanzSupport")]
+                [InlineKeyboardButton("⭕️ SUPPORT ⭕️", url="https://t.me/sunaif_adkar")]
             ])
 
             await query.message.edit_text(
@@ -189,7 +189,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             keyboard = InlineKeyboardMarkup([
                 [InlineKeyboardButton("BACK", callback_data="help_data"),
                     InlineKeyboardButton("START", callback_data="start_data")],
-                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/TroJanzHEX/Auto-Filter-Bot")]
+                [InlineKeyboardButton("SOURCE CODE", url="https://github.com/sunaif-adkar/Auto-Filter-Bot")]
             ])
 
             await query.message.edit_text(
@@ -200,7 +200,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
 
 
     else:
-        await query.answer("Thats not for you!!",show_alert=True)
+        await query.answer("sorry 😊 this is not for you If you need search bot by:- sunaif_adkar",show_alert=True)
 
 
 def split_list(l, n):
