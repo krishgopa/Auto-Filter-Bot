@@ -7,25 +7,15 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot?style=social">
-
+  <a href="https://github.com/sunaif-adkar/Auto-Filter-Bot">
+    
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot/fork">
+  <a href="https://github.com/sunaif-adkar/Auto-Filter-Bot">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
-
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
-ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot/blob/main/COPYING)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot)
-
-
-
 
 
 #### You can call this as an Auto Filter Bot if you like :D
@@ -43,9 +33,9 @@
 
 [Click here to see tutorial video](https://youtu.be/KQVYQAOsFYY)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY ME A COFEE 👀 [CLICK HERE TO DONATE](https://www.paypal.me/sunaifadkar) for managing server
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [TroJanzSupport](https://t.me/sunaif_adkar)
 
 
 ## Installation
@@ -55,13 +45,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
-cd Auto-Filter-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-```
-
+Currently un available right now When is comes [join us](https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT)
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
@@ -70,12 +54,12 @@ python3 main.py
 
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 
-* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@SpEcHiDe/GenerateStringSession)
+* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://replit.com/@sunaifadkar/Gen-String-Session-4?v=1)
 
-* MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [ChannelIDHEXbot](https://telegram.dog/channelidhexbot)
+* MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [ChannelID](https://t.me/AchayaSa_bot)
 
 ## Credits
 
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+[![SUNAIF ADKAR](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/sunaif-adkar)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [believe in felf🥺](https://t.me/Sunaif_adkar)
