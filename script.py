@@ -33,10 +33,10 @@ Bot will automatically search for your file and give links to that!
     
 ⭕️<b>Creater :</b> @sunaif_adkar
 
-⭕️<b>help me :</b> https://www.paypal.me/sunaifadkar
+⭕️<b>help me :</b> https://'www.paypal.me/sunaifadkar'>CLICK HERE TO DONATE</a>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtube.com/channel/UCO2HqhBLZ6G0c_8KAsSQuFA'>Video Link</a> 
+⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/La7uoITuVlg'>Video Link</a> 
 
 """
