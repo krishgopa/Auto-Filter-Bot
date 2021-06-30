@@ -31,7 +31,7 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://wa.me/+917338096026)
+[Click here to see tutorial video](https://youtu.be/La7uoITuVlg)
 
 Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY ME A COFEE 👀 [CLICK HERE TO DONATE](https://www.paypal.me/sunaifadkar) for managing server
 
