@@ -55,12 +55,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
-cd Auto-Filter-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-```
+GICURRENTLY UNAVAILABLE 😊 [soon]
 
 ## Configs
 
@@ -70,12 +65,12 @@ python3 main.py
 
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 
-* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@SpEcHiDe/GenerateStringSession)
+* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://replit.com/@sunaifadkar/Gen-String-Session-4?v=1)
 
 * MAINCHANNEL_ID - Obtain ID of Channel by forwarding a message from your channel to [ChannelIDHEXbot](https://telegram.dog/channelidhexbot)
 
 ## Credits
 
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+[![SaBots](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [sunaif-adkar](https://telegram.dog/sunaif_adkar)
