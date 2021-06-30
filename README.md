@@ -41,7 +41,7 @@ Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/sunaif-adkar/Auto-Filter-Bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar/Auto-Filter-Bot.git)
 
 ### Deploy in your vps
 
