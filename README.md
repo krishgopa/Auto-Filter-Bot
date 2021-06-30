@@ -35,7 +35,7 @@
 
 Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY ME A COFEE 👀 [CLICK HERE TO DONATE](https://www.paypal.me/sunaifadkar) for managing server
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://t.me/sunaif_adkar)
+## Any bugs or errors or suggestions, report at [SUNAIF-SIR](https://t.me/sunaif_adkar)
 
 
 ## Installation
@@ -44,8 +44,10 @@ Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
 
 ### Deploy in your vps
-```sh
+
+
 Currently un available right now When is comes [join us](https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT)
+
 ## Configs
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
