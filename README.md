@@ -31,7 +31,7 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://was.me/+917338096026)
+[Click here to see tutorial video](https://wa.me/+917338096026)
 
 Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY ME A COFEE 👀 [CLICK HERE TO DONATE](https://www.paypal.me/sunaifadkar) for managing server
 
@@ -41,7 +41,7 @@ Thanks to [SaMods](https://https://chat.whatsapp.com/Dt4HjBklpKJKPDgDmnNtPT) BY 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sunaif-adkar/Adv-Auto-Filter-Bot-V2.git)
 
 ### Deploy in your vps
 
