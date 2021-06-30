@@ -9,7 +9,7 @@
         "Sunaif adkar"
     ],
     "website": "https://sunaifadkar.me",
-    "repository": "https://github.com/sunaif-adkar/Adv-Auto-Filter-Bot-V2.git",
+    "repository": "https://github.com/sunaif-adkar/Auto-Filter-Bot.git",
     "success_url": "https://t.me/sunaif_adkar",
     "env": {
         "TG_BOT_TOKEN": {
