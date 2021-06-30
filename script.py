@@ -33,7 +33,7 @@ Bot will automatically search for your file and give links to that!
     
 ⭕️<b>Creater :</b> @sunaif_adkar
 
-⭕️<b>help me :</b> https://'www.paypal.me/sunaifadkar'>CLICK HERE TO DONATE</a>
+⭕️<b>BY ME A COFEE 👀 :</b> <a href='https://www.paypal.me/sunaifadkar'>Click here to donate</a>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
